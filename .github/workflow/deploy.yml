@@ -39,4 +39,3 @@ jobs:
       - name: Sign out of Azure
         if: always()
         run: az logout
-        
